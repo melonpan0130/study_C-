@@ -1,0 +1,9 @@
+C:\Users\Mirim\source\repos\NCP\NCP\bin\Debug\NCP.exe
+C:\Users\Mirim\source\repos\NCP\NCP\bin\Debug\NCP.pdb
+C:\Users\Mirim\source\repos\NCP\NCP\obj\Debug\NCP.csprojAssemblyReference.cache
+C:\Users\Mirim\source\repos\NCP\NCP\obj\Debug\NCP.Properties.Resources.resources
+C:\Users\Mirim\source\repos\NCP\NCP\obj\Debug\NCP.csproj.GenerateResource.cache
+C:\Users\Mirim\source\repos\NCP\NCP\obj\Debug\NCP.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\NCP\NCP\obj\Debug\NCP.exe
+C:\Users\Mirim\source\repos\NCP\NCP\obj\Debug\NCP.pdb
+C:\Users\Mirim\source\repos\NCP\NCP\obj\Debug\NCP.Form1.resources

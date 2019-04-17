@@ -1,0 +1,6 @@
+C:\Users\Mirim\source\repos\NCP_lec2\NCP_lec2\bin\Debug\NCP_lec2.exe
+C:\Users\Mirim\source\repos\NCP_lec2\NCP_lec2\bin\Debug\NCP_lec2.pdb
+C:\Users\Mirim\source\repos\NCP_lec2\NCP_lec2\obj\Debug\NCP_lec2.csprojAssemblyReference.cache
+C:\Users\Mirim\source\repos\NCP_lec2\NCP_lec2\obj\Debug\NCP_lec2.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\NCP_lec2\NCP_lec2\obj\Debug\NCP_lec2.exe
+C:\Users\Mirim\source\repos\NCP_lec2\NCP_lec2\obj\Debug\NCP_lec2.pdb
